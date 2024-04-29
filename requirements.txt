@@ -1,0 +1,5 @@
+openai
+streamlit
+audio-recorder-streamlit
+langdetect
+gTTS
